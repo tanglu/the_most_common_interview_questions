@@ -1,6 +1,7 @@
 #ifndef SMART_POINTER_H
 #define SMART_POINTER_H
 
+
 template <typename T>
 
 class SmartPointer {
