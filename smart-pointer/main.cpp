@@ -1,6 +1,7 @@
 #include "SmartPointer.h"
 
-int main() {
+int main() 
+{
 	SmartPointer<char> cp1(new char('a'));
 	SmartPointer<char> cp2(cp1);
 	SmartPointer<char> cp3;
