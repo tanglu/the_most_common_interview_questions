@@ -2,6 +2,7 @@
 #define SMART_POINTER_H
 
 template <typename T>
+
 class SmartPointer {
 public:
 	//constructor
