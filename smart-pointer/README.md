@@ -1,1 +1,1 @@
-The implementation of a smart pointer based on reference count.
+The implementation of a simple reference counting smart pointer.
